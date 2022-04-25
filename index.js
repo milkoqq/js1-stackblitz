@@ -10,3 +10,5 @@ console.log('hello');
 for (let i = 0; i < 5; i++) {
   console.log(i);
 }
+
+console.log('did you receive the update asshole?');
